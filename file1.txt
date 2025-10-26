@@ -1,0 +1,1 @@
+write mode is create or clear first and move point to the end
