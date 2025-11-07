@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32fbecb2-863d-4aed-9b1e-7b34db6d0be6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/进程和线程/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/进程和线程/线程特性_线程同步.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/进程和线程/进程的常用参数_方法_属性.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/进程和线程/进程间的通信_队列.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/2025learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/2025learning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/线程.py" beforeDir="false" afterPath="$PROJECT_DIR$/进程和线程/线程的常用参数_方法_属性.py" afterDir="false" />
-    </list>
+    <list default="true" id="32fbecb2-863d-4aed-9b1e-7b34db6d0be6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
