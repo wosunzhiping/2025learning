@@ -1,21 +1,22 @@
-import threading
+from threading import currentThread
+from threading import Thread
 import time
 
 def speak(name):
     print(f'{name}正在说话')
-    print('当前线程名：',threading.current_thread().name)
+    print('当前线程名：',currentThread().name)
     time.sleep(1)
     print(f'{name}说完话了')
 
 def run(name):
     print(f'{name}正在跑步')
-    print('当前线程名：',threading.current_thread().name)
+    print('当前线程名：',currentThread().name)
     time.sleep(2)
     print(f'{name}跑完步了')
 
 def listen(name):
     print(f'{name}正在听歌')
-    print('当前线程名：',threading.current_thread().name)
+    print('当前线程名：',currentThread().name)
     time.sleep(4)
     print(f'{name}听完歌了')
 
@@ -30,12 +31,12 @@ if __name__  == '__main__':
 #
 #     # 1、创建线程
     # 设置两个线程，分别执行两个方法/任务
-    t_run = threading.Thread(target=run, args=('乐乐',))
-    t_lis = threading.Thread(target=listen,args=('乐乐',))
-    t_spe = threading.Thread(target=speak,args=('lele',))
+    t_run = Thread(target=run, args=('乐乐',),name='跑步线程')
+    t_lis = Thread(target=listen,args=('乐乐',))
+    t_spe = Thread(target=speak,args=('lele',))
 
     # 2、设置线程名字
-    t_run.setName('跑步线程')
+    # t_run.setName('跑步线程')
     t_lis.setName('听歌线程')
     t_spe.setName('说话线程')
 
@@ -59,7 +60,7 @@ if __name__  == '__main__':
     # 打印线程名字
     print('打印线程名：',t_run.getName())
     print('打印线程名：',t_lis.getName())
-    print('当前线程名:',threading.current_thread().name)
+    print('当前线程名:',currentThread().name)
     print('回家休息')
 
 
