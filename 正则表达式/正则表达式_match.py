@@ -52,12 +52,12 @@ if __name__ == '__main__':
     # http: // example.com
     # https: // example.com
 
-    res = re.search('(http: // |https: // )\w*.\w*.\w*','网址是：http: // www.example.com')
+    res = re.search('(http: // |https: // )\w*.\w*.\w*','网址是：http: // www.example.com。https: // www.example.com。')
     print(res.group())
-    res = re.findall('((http: // \w+.\w+.\w+)|(https: // \w+.\w+.\w+))', '网址是：http: // www.example.com;https: // www.example.com')
+    res = re.findall('(http: // \w+.\w+.\w+)|(https: // \w+.\w+.\w+)', '网址是：http: // www.example.com ; https: // www.example.com ; http: // www.example1.com ; https: // www.example1.com')
     print(res)
 
-    text = "John Doe is 30 years old, and Jane Smith is 25."
+    text = "John Doe is 30 years old, and Jane Smith is 25 years old."
     people = re.findall(r'(\w+)\s+(\w+)\s+is\s+(\d+)\s+years\s+old', text)
     pe1 =  re.search(r'(\w+)\s+(\w+)\s+is\s+(\d+)\s+years\s+old', text,2)
     print(people)
