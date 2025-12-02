@@ -18,7 +18,7 @@
     <session id="706817060">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
@@ -339,12 +339,12 @@
     <frame x="0" y="25" width="1440" height="790" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49440715" visible="true" weight="0.2746781" />
-      <window_info id="Structure" order="1" sideWeight="0.5055928" side_tool="true" visible="true" weight="0.2746781" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49566475" visible="true" weight="0.2746781" />
+      <window_info id="Structure" order="1" sideWeight="0.5043353" side_tool="true" visible="true" weight="0.2746781" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35404626" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35404626" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39884394" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
