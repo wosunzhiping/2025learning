@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32fbecb2-863d-4aed-9b1e-7b34db6d0be6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/正则表达式/match_分组匹配.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/正则表达式/原生字符串.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/正则表达式/贪婪与非贪婪匹配.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习题/1_能被7整除不能被5整除.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习题/2_计算阶乘.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习题/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/正则表达式/正则表达式_match.py" beforeDir="false" afterPath="$PROJECT_DIR$/正则表达式/search_findall_split_sub.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,33 +19,34 @@
         <counts>
           <entry key="project.closed" value="8" />
           <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="13" />
+          <entry key="py" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="13" />
+          <entry key="Python" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="97" />
-          <entry key="py" value="8494" />
+          <entry key="py" value="9319" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="97" />
-          <entry key="Python" value="8494" />
+          <entry key="Python" value="9319" />
         </counts>
       </usages-collector>
     </session>
@@ -80,11 +80,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/正则表达式/原生字符串.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/练习题/1_能被7整除不能被5整除.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/练习题/2_计算阶乘.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -123,6 +141,8 @@
         <option value="$PROJECT_DIR$/正则表达式/正则表达式_match.py" />
         <option value="$PROJECT_DIR$/正则表达式/正则表达式_贪婪与非贪婪匹配.py" />
         <option value="$PROJECT_DIR$/正则表达式/原生字符串.py" />
+        <option value="$PROJECT_DIR$/练习题/1_能被7整除不能被5整除.py" />
+        <option value="$PROJECT_DIR$/练习题/2_计算阶乘.py" />
       </list>
     </option>
   </component>
@@ -168,6 +188,11 @@
             <path>
               <item name="2025learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="2025learning" type="462c0819:PsiDirectoryNode" />
+              <item name="练习题" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2025learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2025learning" type="462c0819:PsiDirectoryNode" />
               <item name="进程_线程_协程" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -199,7 +224,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.原生字符串">
+  <component name="RunManager" selected="Python.2_计算阶乘">
     <configuration name="原生字符串" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="2025learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,6 +246,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="1_能被7整除不能被5整除" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2025learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习题" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习题/1_能被7整除不能被5整除.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2_计算阶乘" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2025learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习题" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习题/2_计算阶乘.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="正则表达式_贪婪与非贪婪匹配" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="2025learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -234,48 +301,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/正则表达式/贪婪与非贪婪匹配.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="协程_gevent_monkey补丁" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="2025learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/进程_线程_协程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/进程_线程_协程/协程_gevent_monkey补丁.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="正则表达式_match" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="2025learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/正则表达式" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/正则表达式/match_分组匹配.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -306,19 +331,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.协程_gevent_monkey补丁" />
-      <item itemvalue="Python.正则表达式_match" />
       <item itemvalue="Python.正则表达式_search_split_sub" />
       <item itemvalue="Python.正则表达式_贪婪与非贪婪匹配" />
       <item itemvalue="Python.原生字符串" />
+      <item itemvalue="Python.1_能被7整除不能被5整除" />
+      <item itemvalue="Python.2_计算阶乘" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2_计算阶乘" />
+        <item itemvalue="Python.1_能被7整除不能被5整除" />
         <item itemvalue="Python.原生字符串" />
         <item itemvalue="Python.正则表达式_贪婪与非贪婪匹配" />
         <item itemvalue="Python.正则表达式_search_split_sub" />
-        <item itemvalue="Python.正则表达式_match" />
-        <item itemvalue="Python.协程_gevent_monkey补丁" />
       </list>
     </recent_temporary>
   </component>
@@ -339,12 +364,12 @@
     <frame x="0" y="25" width="1440" height="790" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49566475" visible="true" weight="0.2746781" />
-      <window_info id="Structure" order="1" sideWeight="0.5043353" side_tool="true" visible="true" weight="0.2746781" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49440715" visible="true" weight="0.27825466" />
+      <window_info id="Structure" order="1" sideWeight="0.5055928" side_tool="true" visible="true" weight="0.27825466" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35404626" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35404626" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39884394" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -451,7 +476,21 @@
     <entry file="file://$PROJECT_DIR$/正则表达式/原生字符串.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习题/1_能被7整除不能被5整除.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习题/2_计算阶乘.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
