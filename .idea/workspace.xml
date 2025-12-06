@@ -117,8 +117,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/练习题/5_类_方法.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+            <state relative-caret-position="325">
+              <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
               <folding>
                 <marker date="1764947252092" expanded="true" signature="123:155" ph="..." />
                 <marker date="1764947252092" expanded="true" signature="367:393" ph="..." />
@@ -406,7 +406,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1440" height="790" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49440715" visible="true" weight="0.27825466" />
       <window_info id="Structure" order="1" sideWeight="0.5055928" side_tool="true" visible="true" weight="0.27825466" />
@@ -571,8 +570,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/练习题/5_类_方法.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        <state relative-caret-position="325">
+          <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
           <folding>
             <marker date="1764947252092" expanded="true" signature="123:155" ph="..." />
             <marker date="1764947252092" expanded="true" signature="367:393" ph="..." />
