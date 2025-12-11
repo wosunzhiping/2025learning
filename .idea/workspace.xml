@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32fbecb2-863d-4aed-9b1e-7b34db6d0be6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/练习题/7_猴子吃桃子.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习题/8_统计字符类型个数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习题/9_对简单列表元素排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习题/10_学生成绩排序.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/练习题/2_计算阶乘.py" beforeDir="false" afterPath="$PROJECT_DIR$/练习题/2_计算阶乘.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/练习题/6_打印所有水仙花数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/练习题/6_打印所有水仙花数据.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,35 +27,44 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="37" />
+          <entry key="py" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="37" />
+          <entry key="Python" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="102" />
-          <entry key="py" value="17600" />
+          <entry key="py" value="18063" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="102" />
-          <entry key="Python" value="17600" />
+          <entry key="Python" value="18063" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/练习题/9_对简单列表元素排序.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/练习题/10_学生成绩排序.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
-              <caret line="44" column="79" selection-start-line="44" selection-start-column="79" selection-end-line="44" selection-end-column="79" />
+              <caret line="29" column="74" selection-start-line="29" selection-start-column="74" selection-end-line="29" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -167,6 +172,7 @@
         <option value="$PROJECT_DIR$/练习题/8_统计字符类型个数.py" />
         <option value="$PROJECT_DIR$/练习题/2_计算阶乘.py" />
         <option value="$PROJECT_DIR$/练习题/9_对简单列表元素排序.py" />
+        <option value="$PROJECT_DIR$/练习题/10_学生成绩排序.py" />
       </list>
     </option>
   </component>
@@ -248,8 +254,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.9_对简单列表元素排序">
-    <configuration name="5_打印九九乘法表" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.10_学生成绩排序">
+    <configuration name="10_学生成绩排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="2025learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,7 +267,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习题/5_打印九九乘法表.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习题/10_学生成绩排序.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -355,19 +361,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.5_打印九九乘法表" />
       <item itemvalue="Python.6_打印所有水仙花数据" />
       <item itemvalue="Python.7_猴子吃桃子" />
       <item itemvalue="Python.8_统计字符类型个数" />
       <item itemvalue="Python.9_对简单列表元素排序" />
+      <item itemvalue="Python.10_学生成绩排序" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10_学生成绩排序" />
         <item itemvalue="Python.9_对简单列表元素排序" />
         <item itemvalue="Python.8_统计字符类型个数" />
         <item itemvalue="Python.7_猴子吃桃子" />
         <item itemvalue="Python.6_打印所有水仙花数据" />
-        <item itemvalue="Python.5_打印九九乘法表" />
       </list>
     </recent_temporary>
   </component>
@@ -631,8 +637,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/练习题/9_对简单列表元素排序.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习题/10_学生成绩排序.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
-          <caret line="44" column="79" selection-start-line="44" selection-start-column="79" selection-end-line="44" selection-end-column="79" />
+          <caret line="29" column="74" selection-start-line="29" selection-start-column="74" selection-end-line="29" selection-end-column="74" />
         </state>
       </provider>
     </entry>
