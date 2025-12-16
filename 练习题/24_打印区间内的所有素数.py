@@ -48,8 +48,8 @@ def print_su(x,y):
             list.append(i)
     print(f'范围内的素数是：{list}')
 
-for i in range(2,2):
-    print('1')
+
+print_su(2,10)
 
 
 
