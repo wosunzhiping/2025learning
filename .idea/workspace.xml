@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32fbecb2-863d-4aed-9b1e-7b34db6d0be6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/练习题/41_(切片)翻转头尾并拼接字符串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习题/42_交换字典键与值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习题/43_(捕获异常)整数输入验证.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习题/44_(自定义异常)验证年龄.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/练习题/39_统计列表中元素出现次数.py" beforeDir="false" afterPath="$PROJECT_DIR$/练习题/39_统计列表中元素出现次数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/练习题/41_(切片)翻转头尾并拼接字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/练习题/41_(切片)翻转头尾并拼接字符串.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,24 +31,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="90" />
+          <entry key="py" value="94" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="90" />
+          <entry key="Python" value="94" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="107" />
-          <entry key="py" value="32924" />
+          <entry key="dummy" value="122" />
+          <entry key="py" value="34804" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="107" />
-          <entry key="Python" value="32924" />
+          <entry key="PLAIN_TEXT" value="122" />
+          <entry key="Python" value="34804" />
         </counts>
       </usages-collector>
     </session>
@@ -56,11 +58,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/练习题/41_(切片)翻转头尾并拼接字符串.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="71" selection-start-line="22" selection-start-column="71" selection-end-line="22" selection-end-column="71" />
+            <state relative-caret-position="327">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/练习题/42_交换字典键与值.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/练习题/43_(捕获异常)整数输入验证.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="45" column="42" lean-forward="true" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
+              <folding>
+                <marker date="1766221832794" expanded="true" signature="96:101" ph="..." />
+                <marker date="1766221832794" expanded="true" signature="96:215" ph="..." />
+                <marker date="1766221832794" expanded="true" signature="337:561" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/练习题/44_(自定义异常)验证年龄.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <marker date="1766222637736" expanded="true" signature="65:70" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/练习题/3_生成字典.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -116,11 +162,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/练习题/4_生成列表_元组.py" />
-        <option value="$PROJECT_DIR$/正则表达式/match_分组匹配.py" />
-        <option value="$PROJECT_DIR$/正则表达式/search_findall_split_sub.py" />
-        <option value="$PROJECT_DIR$/练习题/5_类_方法_测试函数.py" />
-        <option value="$PROJECT_DIR$/练习题/5_类_方法.py" />
         <option value="$PROJECT_DIR$/练习题/1_能被7整除不能被5整除.py" />
         <option value="$PROJECT_DIR$/练习题/6_计算公式及输入序列.py" />
         <option value="$PROJECT_DIR$/练习题/1_整型变量求和.py" />
@@ -167,6 +208,11 @@
         <option value="$PROJECT_DIR$/练习题/39_统计列表中元素出现次数.py" />
         <option value="$PROJECT_DIR$/练习题/41_翻转头尾并拼接字符串.py" />
         <option value="$PROJECT_DIR$/练习题/41_(切片)翻转头尾并拼接字符串.py" />
+        <option value="$PROJECT_DIR$/练习题/42_交换字典键与值.py" />
+        <option value="$PROJECT_DIR$/练习题/43_整数输入验证.py" />
+        <option value="$PROJECT_DIR$/练习题/43_(捕获异常)整数输入验证.py" />
+        <option value="$PROJECT_DIR$/练习题/44_验证年龄.py" />
+        <option value="$PROJECT_DIR$/练习题/44_(自定义异常)验证年龄.py" />
       </list>
     </option>
   </component>
@@ -244,8 +290,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.41_翻转头尾并拼接字符串">
-    <configuration name="37_交换列表首位元素" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.44_(自定义异常)验证年龄">
+    <configuration name="3_生成字典" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="2025learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -257,70 +303,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习题/37_交换列表首位元素.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="38_交换列表指定位置元素" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="2025learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习题" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习题/38_交换列表指定位置元素.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="39_统计列表中元素出现次数" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="2025learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习题" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习题/39_统计列表中元素出现次数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="40_计算列表元素之积" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="2025learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习题" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习题/40_计算列表元素之积.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习题/3_生成字典.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -350,20 +333,83 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="42_交换字典键与值" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2025learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习题" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习题/42_交换字典键与值.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="43_整数输入验证" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2025learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习题" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习题/43_(捕获异常)整数输入验证.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="44_(自定义异常)验证年龄" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2025learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习题" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习题/44_(自定义异常)验证年龄.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.37_交换列表首位元素" />
-      <item itemvalue="Python.38_交换列表指定位置元素" />
-      <item itemvalue="Python.39_统计列表中元素出现次数" />
-      <item itemvalue="Python.40_计算列表元素之积" />
       <item itemvalue="Python.41_翻转头尾并拼接字符串" />
+      <item itemvalue="Python.42_交换字典键与值" />
+      <item itemvalue="Python.3_生成字典" />
+      <item itemvalue="Python.43_整数输入验证" />
+      <item itemvalue="Python.44_(自定义异常)验证年龄" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.44_(自定义异常)验证年龄" />
+        <item itemvalue="Python.43_整数输入验证" />
+        <item itemvalue="Python.42_交换字典键与值" />
+        <item itemvalue="Python.3_生成字典" />
         <item itemvalue="Python.41_翻转头尾并拼接字符串" />
-        <item itemvalue="Python.40_计算列表元素之积" />
-        <item itemvalue="Python.39_统计列表中元素出现次数" />
-        <item itemvalue="Python.38_交换列表指定位置元素" />
-        <item itemvalue="Python.37_交换列表首位元素" />
       </list>
     </recent_temporary>
   </component>
@@ -416,38 +462,24 @@
           <line>10</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/练习题/43_(捕获异常)整数输入验证.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>swap_dict_key_value</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/正则表达式/原生字符串.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/正则表达式/match_分组匹配.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/正则表达式/search_findall_split_sub.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="65" column="14" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/练习题/4_生成列表_元组.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/练习题/5_类_方法.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
@@ -816,8 +848,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/练习题/41_(切片)翻转头尾并拼接字符串.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="71" selection-start-line="22" selection-start-column="71" selection-end-line="22" selection-end-column="71" />
+        <state relative-caret-position="327">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习题/3_生成字典.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习题/42_交换字典键与值.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习题/43_(捕获异常)整数输入验证.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="45" column="42" lean-forward="true" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
+          <folding>
+            <marker date="1766221832794" expanded="true" signature="96:101" ph="..." />
+            <marker date="1766221832794" expanded="true" signature="96:215" ph="..." />
+            <marker date="1766221832794" expanded="true" signature="337:561" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习题/44_(自定义异常)验证年龄.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <marker date="1766222637736" expanded="true" signature="65:70" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
