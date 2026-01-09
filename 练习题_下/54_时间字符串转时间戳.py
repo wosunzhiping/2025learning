@@ -8,16 +8,23 @@ import time
 a1 = '2025-12-30 22:56:24'
 a2 = '2025/12/30 22:56:24'
 
-a1_result = time.mktime(time.strptime(a1,'%Y-%m-%d %H:%M:%S'))
-print(time.strptime(a1,'%Y-%m-%d %H:%M:%S'))
+a1_mid = time.strptime(a1,'%Y-%m-%d %H:%M:%S')
+a1_result = time.mktime(a1_mid)
+print(a1_mid)
+print(type(a1_mid))
 print(int(a1_result))
 
 a2_result = time.mktime(time.strptime(a2,'%Y/%m/%d %H:%M:%S'))
 print(int(a2_result))
 
+current_time  = time.localtime()
+# c1 = current_time.strf  ---- 没有
 str_now = time.strftime('%Y-%m-%d %H:%M:%S',time.localtime())
-print(str_now)
 
+
+print(str_now)
+print(type(str_now))
+print(type(time.localtime()))
 
 
 

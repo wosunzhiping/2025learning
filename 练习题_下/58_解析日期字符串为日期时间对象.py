@@ -22,4 +22,6 @@ print(parser.parse(time.ctime()))
 # pip install python-dateutil
 #
 # 2、parser.pase()
-# 参数是各种形式的年月日时分秒，都可以解析成 2026-01-01 07:51:26 这种格式
+# 参数是各种形式的年月日时分秒---字符串，都可以解析成 2026-01-01 07:51:26 这种格式；
+# time.ctime() 结果是字符串。
+# ime.localtime() 结果是时间数组格式，非字符串

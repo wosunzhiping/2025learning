@@ -6,14 +6,18 @@ year = int(input('请输入年份：'))
 month = int(input('请输入月份：'))
 
 # 元组的解包
+print(calendar.monthrange(year,month))
+print(type(calendar.monthrange(year,month)))
 first_day,days_of_month = calendar.monthrange(year,month)
+
+
 
 # 定义一个星期的列表，直接用calendar.monthrange结果的索引来映射中文星期
 week_list = ['星期一','星期二','星期三','星期四','星期五','星期六','星期日']
 first_day_week = week_list[first_day]
 
 
-print(calendar.monthrange(year,month))
+
 print(f'{year}年{month}月的第一天是{first_day_week}，这个月一共有{days_of_month}天')
 
 
