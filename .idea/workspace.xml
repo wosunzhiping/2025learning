@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32fbecb2-863d-4aed-9b1e-7b34db6d0be6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/练习题_下/61_获取当前日期时间(总).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习题_下/63_简单日期处理.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习题_下/64_日期减法练习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习题_下/65_生成日期范围列表.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/练习题_下/51_时间处理.py" beforeDir="false" afterPath="$PROJECT_DIR$/练习题_下/51_时间处理.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/练习题_下/54_时间字符串转时间戳.py" beforeDir="false" afterPath="$PROJECT_DIR$/练习题_下/54_时间字符串转时间戳.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/练习题_下/58_解析日期字符串为日期时间对象.py" beforeDir="false" afterPath="$PROJECT_DIR$/练习题_下/58_解析日期字符串为日期时间对象.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/练习题_下/59_打印指定年月日历.py" beforeDir="false" afterPath="$PROJECT_DIR$/练习题_下/59_打印指定年月日历.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/练习题_下/60_计算指定年月首日星期及天数.py" beforeDir="false" afterPath="$PROJECT_DIR$/练习题_下/60_计算指定年月首日星期及天数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/练习题_下/61_获取当前日期时间.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/练习题_下/62_计算两个日期天数差异.py" beforeDir="false" afterPath="$PROJECT_DIR$/练习题_下/62_计算两个日期天数差异.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/练习题_下/61_获取当前日期时间(总).py" beforeDir="false" afterPath="$PROJECT_DIR$/练习题_下/61_获取当前日期时间(总).py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,24 +31,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="139" />
+          <entry key="py" value="141" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="139" />
+          <entry key="Python" value="141" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="137" />
-          <entry key="py" value="45817" />
+          <entry key="py" value="46807" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="137" />
-          <entry key="Python" value="45817" />
+          <entry key="Python" value="46807" />
         </counts>
       </usages-collector>
     </session>
@@ -67,8 +61,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/练习题_下/61_获取当前日期时间(总).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="935">
-              <caret line="67" column="18" lean-forward="true" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
+            <state relative-caret-position="207">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="e#183#198#0" expanded="true" />
               </folding>
@@ -81,24 +75,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
               <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/练习题_下/55_延时操作.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/练习题_下/56_实现简单秒表.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -154,11 +130,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/练习题_下/63_简单日期处理.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="53" column="2" selection-start-line="53" selection-start-column="2" selection-end-line="53" selection-end-column="2" />
+            <state relative-caret-position="300">
+              <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/练习题_下/64_日期减法练习.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <folding>
+                <element signature="e#82#97#0" expanded="true" />
+                <marker date="1768047617897" expanded="true" signature="138:143" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/练习题_下/65_生成日期范围列表.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <marker date="1768048740670" expanded="true" signature="319:324" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -178,8 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/练习题/20_平方运算.py" />
-        <option value="$PROJECT_DIR$/练习题/21_计算连续数字串和.py" />
         <option value="$PROJECT_DIR$/练习题/22_计算整数的阶乘.py" />
         <option value="$PROJECT_DIR$/练习题/23_计算圆的面积.py" />
         <option value="$PROJECT_DIR$/练习题/24_打印区间内的所有素数.py" />
@@ -226,9 +225,11 @@
         <option value="$PROJECT_DIR$/练习题_下/54_时间字符串转时间戳.py" />
         <option value="$PROJECT_DIR$/练习题_下/57_数字猜谜游戏.py" />
         <option value="$PROJECT_DIR$/练习题_下/58_解析日期字符串为日期时间对象.py" />
-        <option value="$PROJECT_DIR$/练习题_下/61_获取当前日期时间(总).py" />
         <option value="$PROJECT_DIR$/练习题_下/62_计算两个日期天数差异.py" />
         <option value="$PROJECT_DIR$/练习题_下/63_简单日期处理.py" />
+        <option value="$PROJECT_DIR$/练习题_下/64_日期减法练习.py" />
+        <option value="$PROJECT_DIR$/练习题_下/61_获取当前日期时间(总).py" />
+        <option value="$PROJECT_DIR$/练习题_下/65_生成日期范围列表.py" />
       </list>
     </option>
   </component>
@@ -306,28 +307,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.63_简单日期处理">
-    <configuration name="57_数字猜谜游戏" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="2025learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习题_下" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习题_下/57_数字猜谜游戏.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.65_生成日期范围列表">
     <configuration name="58_解析日期字符串为日期时间对象" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="2025learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -341,27 +321,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习题_下/58_解析日期字符串为日期时间对象.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="61_获取当前日期时间" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="2025learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习题_下" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习题_下/61_获取当前日期时间(总).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -412,20 +371,62 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="64_日期减法练习" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2025learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习题_下" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习题_下/64_日期减法练习.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="65_生成日期范围列表" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2025learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习题_下" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习题_下/65_生成日期范围列表.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.61_获取当前日期时间" />
-      <item itemvalue="Python.57_数字猜谜游戏" />
       <item itemvalue="Python.58_解析日期字符串为日期时间对象" />
       <item itemvalue="Python.62_计算两个日期天数差异" />
       <item itemvalue="Python.63_简单日期处理" />
+      <item itemvalue="Python.64_日期减法练习" />
+      <item itemvalue="Python.65_生成日期范围列表" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.65_生成日期范围列表" />
+        <item itemvalue="Python.64_日期减法练习" />
         <item itemvalue="Python.63_简单日期处理" />
         <item itemvalue="Python.62_计算两个日期天数差异" />
         <item itemvalue="Python.58_解析日期字符串为日期时间对象" />
-        <item itemvalue="Python.57_数字猜谜游戏" />
-        <item itemvalue="Python.61_获取当前日期时间" />
       </list>
     </recent_temporary>
   </component>
@@ -512,20 +513,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/练习题/28_移除列表中的多个元素.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="324" selection-start-line="324" selection-end-line="324" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/练习题/25_求前N个数的平方和.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -864,16 +851,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/练习题_下/61_获取当前日期时间(总).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="67" column="18" lean-forward="true" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
-          <folding>
-            <element signature="e#183#198#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/练习题_下/62_计算两个日期天数差异.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -883,8 +860,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/练习题_下/63_简单日期处理.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="53" column="2" selection-start-line="53" selection-start-column="2" selection-end-line="53" selection-end-column="2" />
+        <state relative-caret-position="300">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习题_下/64_日期减法练习.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="e#82#97#0" expanded="true" />
+            <marker date="1768047617897" expanded="true" signature="138:143" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习题_下/61_获取当前日期时间(总).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#183#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习题_下/65_生成日期范围列表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <marker date="1768048740670" expanded="true" signature="319:324" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
