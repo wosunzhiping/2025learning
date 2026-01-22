@@ -59,6 +59,8 @@ manager.add_student('王五')
 manager.add_grade_to_student('张三',80,90,23)
 manager.show_average_score()
 
+print(manager.get_student('张三'))  # 这里得到的是一个对象，打印的是对象的内存地址
+
 
 dic1 = {'a':1,'b':2}
 print(dic1.get('c'))
