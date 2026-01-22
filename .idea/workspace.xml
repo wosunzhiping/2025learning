@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32fbecb2-863d-4aed-9b1e-7b34db6d0be6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/练习题_下/73_定义在线购物车类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习题_下/74_定义文本文件处理类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习题_下/75_定义在线聊天室类.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/练习题_下/71_定义银行账户类.py" beforeDir="false" afterPath="$PROJECT_DIR$/练习题_下/71_定义银行账户类.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/练习题_下/72_简单版学生成绩管理系统.py" beforeDir="false" afterPath="$PROJECT_DIR$/练习题_下/72_简单版学生成绩管理系统.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,24 +30,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="155" />
+          <entry key="py" value="159" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="155" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="159" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="144" />
-          <entry key="py" value="53758" />
+          <entry key="py" value="55471" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="144" />
-          <entry key="Python" value="53758" />
+          <entry key="Python" value="55471" />
         </counts>
       </usages-collector>
     </session>
@@ -58,13 +59,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/练习题_下/73_定义在线购物车类.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="62" column="2" selection-start-line="62" selection-start-column="2" selection-end-line="62" selection-end-column="2" />
+            <state relative-caret-position="279">
+              <caret line="63" column="21" lean-forward="true" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
               <folding>
                 <marker date="1769051638821" expanded="true" signature="49:54" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/练习题/48_随机生成.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/练习题/49_随机生成验证码.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+              <folding>
+                <element signature="e#44#57#0" expanded="true" />
+                <marker date="1766449692250" expanded="true" signature="138:145" ph="..." />
+                <marker date="1766449692250" expanded="true" signature="475:684" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/练习题_下/74_定义文本文件处理类.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="52" column="22" lean-forward="true" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
+              <folding>
+                <marker date="1769074293319" expanded="true" signature="78:83" ph="..." />
+                <marker date="1769074293319" expanded="true" signature="564:966" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/练习题_下/75_定义在线聊天室类.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="512">
+              <caret line="57" column="2" selection-start-line="57" selection-start-column="2" selection-end-line="57" selection-end-column="2" />
+              <folding>
+                <marker date="1769076655634" expanded="true" signature="58:63" ph="..." />
               </folding>
             </state>
           </provider>
@@ -98,8 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/练习题/30_变量互换.py" />
-        <option value="$PROJECT_DIR$/练习题/31_计算字典值总和.py" />
         <option value="$PROJECT_DIR$/练习题/32_计算倒数序列和.py" />
         <option value="$PROJECT_DIR$/练习题/33_计算给定日期是年中的第几天.py" />
         <option value="$PROJECT_DIR$/练习题/34_斐波那契数列.py" />
@@ -149,6 +196,8 @@
         <option value="$PROJECT_DIR$/练习题_下/71_定义银行账户类.py" />
         <option value="$PROJECT_DIR$/练习题_下/72_简单版学生成绩管理系统.py" />
         <option value="$PROJECT_DIR$/练习题_下/73_定义在线购物车类.py" />
+        <option value="$PROJECT_DIR$/练习题_下/74_定义文本文件处理类.py" />
+        <option value="$PROJECT_DIR$/练习题_下/75_定义在线聊天室类.py" />
       </list>
     </option>
   </component>
@@ -226,49 +275,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.73_定义在线购物车类">
-    <configuration name="69_定义计算器类" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="2025learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习题_下" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习题_下/69_定义计算器类.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="70_子类重写父类方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="2025learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习题_下" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习题_下/70_子类重写父类方法.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.75_定义在线聊天室类">
     <configuration name="71_定义银行账户类" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="2025learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -332,20 +339,62 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="74_定义文本文件处理类" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2025learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习题_下" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习题_下/74_定义文本文件处理类.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="75_定义在线聊天室类" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2025learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习题_下" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习题_下/75_定义在线聊天室类.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.69_定义计算器类" />
-      <item itemvalue="Python.70_子类重写父类方法" />
       <item itemvalue="Python.71_定义银行账户类" />
       <item itemvalue="Python.72_简单版学生成绩管理系统" />
       <item itemvalue="Python.73_定义在线购物车类" />
+      <item itemvalue="Python.74_定义文本文件处理类" />
+      <item itemvalue="Python.75_定义在线聊天室类" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.75_定义在线聊天室类" />
+        <item itemvalue="Python.74_定义文本文件处理类" />
         <item itemvalue="Python.73_定义在线购物车类" />
         <item itemvalue="Python.72_简单版学生成绩管理系统" />
         <item itemvalue="Python.71_定义银行账户类" />
-        <item itemvalue="Python.70_子类重写父类方法" />
-        <item itemvalue="Python.69_定义计算器类" />
       </list>
     </recent_temporary>
   </component>
@@ -379,9 +428,9 @@
       <window_info id="Structure" order="1" sideWeight="0.5064378" side_tool="true" weight="0.27825466" />
       <window_info id="Favorites" order="2" sideWeight="0.50721157" side_tool="true" weight="0.27825466" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32947975" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37283236" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39884394" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32803467" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37283236" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39884394" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32947975" />
@@ -432,27 +481,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/练习题/15_寻找最小连续9整除数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="31" column="2" lean-forward="true" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/练习题/14_输入数字排序.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="38" column="26" lean-forward="true" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/练习题/13_按序插入列表.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/练习题/29_列表元素去重.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
@@ -595,25 +623,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/练习题/48_随机生成.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/练习题/49_随机生成验证码.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
-          <folding>
-            <element signature="e#44#57#0" expanded="true" />
-            <marker date="1766449692250" expanded="true" signature="138:145" ph="..." />
-            <marker date="1766449692250" expanded="true" signature="475:684" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -837,10 +846,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/练习题_下/73_定义在线购物车类.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="62" column="2" selection-start-line="62" selection-start-column="2" selection-end-line="62" selection-end-column="2" />
+        <state relative-caret-position="279">
+          <caret line="63" column="21" lean-forward="true" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
           <folding>
             <marker date="1769051638821" expanded="true" signature="49:54" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习题/49_随机生成验证码.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+          <folding>
+            <element signature="e#44#57#0" expanded="true" />
+            <marker date="1766449692250" expanded="true" signature="138:145" ph="..." />
+            <marker date="1766449692250" expanded="true" signature="475:684" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习题/48_随机生成.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习题_下/74_定义文本文件处理类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="52" column="22" lean-forward="true" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
+          <folding>
+            <marker date="1769074293319" expanded="true" signature="78:83" ph="..." />
+            <marker date="1769074293319" expanded="true" signature="564:966" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习题_下/chatlog.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习题_下/75_定义在线聊天室类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="57" column="2" selection-start-line="57" selection-start-column="2" selection-end-line="57" selection-end-column="2" />
+          <folding>
+            <marker date="1769076655634" expanded="true" signature="58:63" ph="..." />
           </folding>
         </state>
       </provider>
