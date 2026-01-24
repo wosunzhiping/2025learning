@@ -78,7 +78,10 @@ def write_to_file(lst):
 
 # 5、f.readlines()
 # 得到的是每一行字符串形成的列表list
+#         for line in f.readlines():
+#             line = line.replace('\n','')
+#             line = line.split('，')
+#             result.append(line)
 
 # 6、字符串替换：
 # s.replace('\n','')
-
