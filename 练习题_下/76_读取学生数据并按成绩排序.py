@@ -55,6 +55,7 @@ def write_to_file(lst):
 
 
 
+
 # -------- 总结 ---------
 # 1、将 字符串 转换成 列表：split('，')：
 # 源值：str = '101，小张，88'
@@ -77,4 +78,7 @@ def write_to_file(lst):
 
 # 5、f.readlines()
 # 得到的是每一行字符串形成的列表list
+
+# 6、字符串替换：
+# s.replace('\n','')
 
