@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32fbecb2-863d-4aed-9b1e-7b34db6d0be6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AI_test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AI_test/deepseek_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习题_下/80_按文件后缀名整理文件夹.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/练习题_下/79_计算目录下所有文件大小总和.py" beforeDir="false" afterPath="$PROJECT_DIR$/练习题_下/79_计算目录下所有文件大小总和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习题_下/81_递归搜索最大文本文件.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,27 +28,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="184" />
+          <entry key="py" value="185" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="184" />
+          <entry key="Python" value="185" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="144" />
-          <entry key="py" value="61654" />
+          <entry key="py" value="62730" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="145" />
-          <entry key="Python" value="61654" />
+          <entry key="Python" value="62730" />
         </counts>
       </usages-collector>
     </session>
@@ -86,14 +82,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/练习题_下/80_按文件后缀名整理文件夹.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="14" column="73" selection-start-line="14" selection-start-column="73" selection-end-line="14" selection-end-column="73" />
+            <state relative-caret-position="315">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="e#32#41#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/练习题_下/81_递归搜索最大文本文件.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -166,7 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/练习题/39_统计列表中元素出现次数.py" />
         <option value="$PROJECT_DIR$/练习题/41_翻转头尾并拼接字符串.py" />
         <option value="$PROJECT_DIR$/练习题/41_(切片)翻转头尾并拼接字符串.py" />
         <option value="$PROJECT_DIR$/练习题/42_交换字典键与值.py" />
@@ -217,6 +221,7 @@
         <option value="$PROJECT_DIR$/AI_test/deepseek_test.py" />
         <option value="$PROJECT_DIR$/练习题_下/79_计算目录下所有文件大小总和.py" />
         <option value="$PROJECT_DIR$/练习题_下/80_按文件后缀名整理文件夹.py" />
+        <option value="$PROJECT_DIR$/练习题_下/81_递归搜索最大文本文件.py" />
       </list>
     </option>
   </component>
@@ -263,24 +268,7 @@
               <item name="2025learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="2025learning" type="462c0819:PsiDirectoryNode" />
               <item name="dirTest" type="462c0819:PsiDirectoryNode" />
-              <item name="docx" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2025learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2025learning" type="462c0819:PsiDirectoryNode" />
-              <item name="dirTest" type="462c0819:PsiDirectoryNode" />
               <item name="py" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2025learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2025learning" type="462c0819:PsiDirectoryNode" />
-              <item name="dirTest" type="462c0819:PsiDirectoryNode" />
-              <item name="txt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2025learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2025learning" type="462c0819:PsiDirectoryNode" />
-              <item name="练习题_下" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -312,7 +300,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.80_按文件后缀名整理文件夹">
+  <component name="RunManager" selected="Python.81_递归搜索最大文本文件">
     <configuration name="78_统计单词出现的次数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="2025learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -376,7 +364,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="match_分组匹配" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="81_递归搜索最大文本文件" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="2025learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -384,11 +372,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/正则表达式" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习题_下" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/正则表达式/match_分组匹配.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习题_下/81_递归搜索最大文本文件.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -420,18 +408,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.search_findall_split_sub" />
-      <item itemvalue="Python.match_分组匹配" />
       <item itemvalue="Python.78_统计单词出现的次数" />
       <item itemvalue="Python.79_计算目录下所有文件大小总和" />
       <item itemvalue="Python.80_按文件后缀名整理文件夹" />
+      <item itemvalue="Python.81_递归搜索最大文本文件" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.81_递归搜索最大文本文件" />
         <item itemvalue="Python.80_按文件后缀名整理文件夹" />
         <item itemvalue="Python.79_计算目录下所有文件大小总和" />
         <item itemvalue="Python.78_统计单词出现的次数" />
         <item itemvalue="Python.search_findall_split_sub" />
-        <item itemvalue="Python.match_分组匹配" />
       </list>
     </recent_temporary>
   </component>
@@ -461,12 +449,12 @@
     <frame x="0" y="25" width="1440" height="790" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49278846" visible="true" weight="0.26824033" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49278846" visible="true" weight="0.26824033" />
       <window_info id="Structure" order="1" sideWeight="0.5064378" side_tool="true" weight="0.27825466" />
       <window_info id="Favorites" order="2" sideWeight="0.50721157" side_tool="true" weight="0.27825466" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32803467" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37283236" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37283236" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39884394" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -518,16 +506,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/练习题_下/58_解析日期字符串为日期时间对象.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
-          <folding>
-            <element signature="e#51#78#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/练习题_下/60_计算指定年月首日星期及天数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
@@ -920,11 +898,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/练习题_下/80_按文件后缀名整理文件夹.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="14" column="73" selection-start-line="14" selection-start-column="73" selection-end-line="14" selection-end-column="73" />
+        <state relative-caret-position="315">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="e#32#41#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习题_下/81_递归搜索最大文本文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
         </state>
       </provider>
     </entry>
