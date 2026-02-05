@@ -1,0 +1,110 @@
+语文,101,小张,94  
+语文,102,小王,64  
+语文,103,小李,62  
+语文,104,小赵,55  
+语文,105,小强,91  
+数学,101,小张,53  
+数学,102,小王,82  
+数学,103,小李,86  
+数学,104,小赵,93  
+数学,105,小强,72  
+英语,101,小张,92  
+英语,102,小王,80  
+英语,103,小李,73  
+英语,104,小赵,93  
+英语,105,小强,51
+
+语文,101,小张,94  
+语文,102,小王,64  
+语文,103,小李,62  
+语文,104,小赵,55  
+语文,105,小强,91  
+数学,101,小张,53  
+数学,102,小王,82  
+数学,103,小李,86  
+数学,104,小赵,93  
+数学,105,小强,72  
+英语,101,小张,92  
+英语,102,小王,80  
+英语,103,小李,73  
+英语,104,小赵,93  
+英语,105,小强,51
+语文，余老师
+数学，王老师
+英语，彭老师
+101，小张，88
+102，小王，77
+103，小李，99
+104，小赵，66
+105，小强，55
+
+孙志平已添加成功！
+孙志平:今天教训很深刻
+{name}已成功离开！
+
+一、日常生活类
+1.	My Daily Routine
+
+2.	I wake up at 7:00 every morning. After brushing my teeth, I have breakfast with my family. Then I go to school by bus. In the afternoon, I do homework and play sports. I enjoy my routine because it keeps me organized and happy. 
+3.	Family Life
+
+4.	My family is very close. We often eat dinner together and share stories. My parents work hard, and I help with chores. Family time is the best part of my day. 
+5.	A Visit to the Doctor
+
+6.	Last week, I had a cold and visited the doctor. He checked my temperature and gave me medicine. Now I feel much better. Health is very important, so I take care of myself. 
+7.	Weather and Seasons
+
+8.	Today is sunny and warm. I love summer because I can swim and go to the beach. In winter, it’s cold but fun to play in the snow. Weather affects my daily activities a lot. 
+9.	Shopping Experience
+
+10.	I went shopping yesterday and bought a new shirt. The store had many options, and the salesperson was helpful. Shopping is a great way to relax and find new things. 
+
+105，小强，55
+104，小赵，66
+102，小王，77
+101，小张，88
+103，小李，99
+
+
+
+语文，余老师
+数学，王老师
+英语，彭老师
+
+101，小张，88
+102，小王，77
+103，小李，99
+104，小赵，66
+105，小强，55
+
+
+孙志平已添加成功！
+孙志平:今天教训很深刻
+{name}已成功离开！
+
+
+一、日常生活类
+1.	My Daily Routine
+
+2.	I wake up at 7:00 every morning. After brushing my teeth, I have breakfast with my family. Then I go to school by bus. In the afternoon, I do homework and play sports. I enjoy my routine because it keeps me organized and happy. 
+3.	Family Life
+
+4.	My family is very close. We often eat dinner together and share stories. My parents work hard, and I help with chores. Family time is the best part of my day. 
+5.	A Visit to the Doctor
+
+6.	Last week, I had a cold and visited the doctor. He checked my temperature and gave me medicine. Now I feel much better. Health is very important, so I take care of myself. 
+7.	Weather and Seasons
+
+8.	Today is sunny and warm. I love summer because I can swim and go to the beach. In winter, it’s cold but fun to play in the snow. Weather affects my daily activities a lot. 
+9.	Shopping Experience
+
+10.	I went shopping yesterday and bought a new shirt. The store had many options, and the salesperson was helpful. Shopping is a great way to relax and find new things. 
+
+
+105，小强，55
+104，小赵，66
+102，小王，77
+101，小张，88
+103，小李，99
+
+
