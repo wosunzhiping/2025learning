@@ -64,7 +64,7 @@ print(f'最高分：{max_score}，最低分：{min_score}，平均分：{average
 # 3、接收并解包元组：
 # max_score,min_score,average_score = compute_scores()
 
-# 4、保留两位小数：在数值后面:.2f
+# 4、保留两位小数：在f''输出中，在数值后面:.2f
 # 平均分：{average_score:.2f}'
 
 

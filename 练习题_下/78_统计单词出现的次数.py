@@ -40,7 +40,7 @@ print(word_sorted)
 
 # ------ 总结 --------
 # 1、字符串切片：
-# line = line[:-1] 字符串line的开始到倒数第一位截止
+# line = line[:-1] 字符串line的开始到倒数第一位截止(不含)
 
 # 2、按空格或换行符分割字符串，形成列表：
 # line = line.split()

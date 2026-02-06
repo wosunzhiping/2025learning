@@ -61,6 +61,9 @@ for file in os.listdir(dir):
 # 1）文件夹名称需是完整文件夹路径，否则会在当前目录下创建文件夹
 # 2）mode=0o777
 
+# 7、连贯写法：
+# for file in os.listdir(dir):
+#     full_file_name = os.path.join(dir, file)
 
 
 

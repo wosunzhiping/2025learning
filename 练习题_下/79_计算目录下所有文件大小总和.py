@@ -22,7 +22,8 @@ import os
 
 sum = 0
 for file in os.listdir():
-    if os.path.isfile(file):
+    full_file_name = os.path.join(dir, file)
+    if os.path.isfile(full_file_name):
         sum += os.path.getsize(file)
 print(f'{sum/1024/1024:.2f}MB')
 
