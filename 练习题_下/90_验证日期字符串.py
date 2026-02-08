@@ -37,3 +37,9 @@ print(date2,is_right(date2))
 print(date3,is_right(date3))
 print(date4,is_right(date4))
 print(date5,is_right(date5))
+
+
+# --------- 总结 ---------
+# 1、匹配两个数字：res = re.match('\d{2}',date)
+# 1）如果能匹配到，则可打印res.group()
+# 2）如果不能匹配到，则得到的是None

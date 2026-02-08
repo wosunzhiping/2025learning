@@ -4,12 +4,14 @@ if __name__ == '__main__':
     res = re.match('[a-zA-Z][a-zA-Z]','Hello')
     print(res.group())
     # He
+    #
     # 总结1：匹配两个字母
+    # re.match 是从字符串的开头开始匹配
 
     res = re.match('\d\d','234')
     print(res.group())
     # 23
-    # 总结2：匹配两个数字
+    # 总结2：匹配两个数字，也可以写成 re.match('\d{2}','234')
 
     res = re.match('\s\s\s.','   %hh')
     print(res.group())
